@@ -2,7 +2,7 @@
 """
 Created on Thu Feb  5 10:55:04 2026
 
-@author: MD SOHAIL
+@author:md sohail
 """
 #creating a dictionary
 S1={"name":"alice","city":"glb","age":22}
