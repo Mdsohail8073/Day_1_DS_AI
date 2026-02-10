@@ -62,6 +62,7 @@ with open("journal.txt","r") as file:
     
 #Task 2
 import csv 
+
 with open("student.csv", "r") as file:
     reader = csv.DictReader(file)
 
