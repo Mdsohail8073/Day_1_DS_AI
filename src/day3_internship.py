@@ -2,7 +2,7 @@
 """
 Created on Wed Feb  4 11:14:50 2026
 
-@author: MD SOHAIL
+@author: imama sab
 """"
 #Task1
 
