@@ -1,15 +1,8 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Feb 12 12:36:07 2026
-
-@author: MD SOHAIL
-"""
-
 #Task1
 import pandas as pd
 
 # 1. Load the dataset
-df = pd.read_csv("customer_orders.csv")
+df = pd.read_csv("imam.csv")
 
 # Shape before cleaning
 print("Shape before cleaning:", df.shape)

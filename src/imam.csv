@@ -1,0 +1,4 @@
+customer id,name,age,city,amount,payment method,date
+101,alice,21,glb,20000,upi,21-10-2002
+102,bob,22,klb,21000,cash,22-8-2006
+103,henry,23,bjp,22000,card,20-02-1998
